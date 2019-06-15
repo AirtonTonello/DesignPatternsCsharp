@@ -1,0 +1,7 @@
+C:\Users\Airton\Desktop\GitHub\DesignPatternsCsharp\DesignPatternsCsharp\bin\Debug\DesignPatternsCsharp.exe.config
+C:\Users\Airton\Desktop\GitHub\DesignPatternsCsharp\DesignPatternsCsharp\bin\Debug\DesignPatternsCsharp.exe
+C:\Users\Airton\Desktop\GitHub\DesignPatternsCsharp\DesignPatternsCsharp\bin\Debug\DesignPatternsCsharp.pdb
+C:\Users\Airton\Desktop\GitHub\DesignPatternsCsharp\DesignPatternsCsharp\obj\Debug\DesignPatternsCsharp.csprojAssemblyReference.cache
+C:\Users\Airton\Desktop\GitHub\DesignPatternsCsharp\DesignPatternsCsharp\obj\Debug\DesignPatternsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Airton\Desktop\GitHub\DesignPatternsCsharp\DesignPatternsCsharp\obj\Debug\DesignPatternsCsharp.exe
+C:\Users\Airton\Desktop\GitHub\DesignPatternsCsharp\DesignPatternsCsharp\obj\Debug\DesignPatternsCsharp.pdb
